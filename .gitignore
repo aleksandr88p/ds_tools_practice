@@ -5,3 +5,4 @@ catboost_info/
 __pycache__/
 *.pyc
 ipynb_checkpoints/
+event_data_train.csv
